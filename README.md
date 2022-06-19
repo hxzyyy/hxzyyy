@@ -17,4 +17,9 @@
   <a href="https://www.tiktok.com/@euamoleagueoflegends" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href="https://www.reddit.com/user/guizineowwww" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>     
     
-</div>
+
+  ![Snake animation](https://github.com/hxzyyy/hxzyyy/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
+  </div>
