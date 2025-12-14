@@ -13,8 +13,8 @@
   
   
   <div>
-  <a href="https://www.instagram.com/hxzy.digital/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/@euamoleagueoflegends" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/guicaldana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@oguizinn" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href="https://www.reddit.com/user/guizineowwww" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>     
     
 
