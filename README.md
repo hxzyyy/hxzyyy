@@ -1,4 +1,4 @@
-## opa, sou o hxzy e programo por diversão/aprendizado </>
+## opa, sou o gui e programo por diversão/aprendizado </>
 <div align="center">
   <a href="https://github.com/hxzyyy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hxzyyy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
